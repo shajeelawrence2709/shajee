@@ -5,4 +5,8 @@ public class File_A {
 	public void sayHello(){
 		System.out.println("Hello");
 	}
+	
+	public void inDevelopBranch(){
+		// in the development branch
+	}
 }
