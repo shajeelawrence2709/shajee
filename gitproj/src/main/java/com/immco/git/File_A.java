@@ -9,4 +9,8 @@ public class File_A {
 	public void inDevelopBranch(){
 		// in the development branch
 	}
+	
+	public void diffCheckFeature(){
+		//diff check in Feature
+	}
 }
