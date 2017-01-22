@@ -10,7 +10,11 @@ public class File_A {
 		// in the development branch
 	}
 	
+
 	public void diffCheckFeature(){
 		//diff check in Feature
+	}
+	public void diffCheckInDev(){
+		// this is the first diff chk
 	}
 }
